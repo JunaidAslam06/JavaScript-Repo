@@ -31,3 +31,4 @@ console.log(undefined == 0);
 // === Strict Check
 
 console.log("3" === 3);
+console.log("3"==="3")
