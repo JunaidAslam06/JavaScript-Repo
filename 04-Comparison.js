@@ -33,3 +33,16 @@ console.log(undefined == 0);
 console.log("3" === 3);
 console.log("3"==="3");
 
+// Personal Experience Trying my "C" concepts in "JS"
+
+console.log("3" >= 3);
+
+let a=30;
+if (a>=30){
+    console.log("hello");
+    
+} else {
+    console.log("bye");
+    
+}
+
